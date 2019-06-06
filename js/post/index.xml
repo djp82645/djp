@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on I am thinking ...</title>
+    <link>https://djp82645.github.io/djp/post/</link>
+    <description>Recent content in Posts on I am thinking ...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>All rights reserved - 2018</copyright>
+    <lastBuildDate>Wed, 05 Jun 2019 15:17:15 +0800</lastBuildDate>
+    
+	<atom:link href="https://djp82645.github.io/djp/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>https://djp82645.github.io/djp/2019/06/05/test/</link>
+      <pubDate>Wed, 05 Jun 2019 15:17:15 +0800</pubDate>
+      
+      <guid>https://djp82645.github.io/djp/2019/06/05/test/</guid>
+      <description>hello</description>
+    </item>
+    
+  </channel>
+</rss>
